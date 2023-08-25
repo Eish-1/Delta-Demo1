@@ -22,3 +22,6 @@ and then send.
 
 # Now with commit :
 out local machine's git will remember the changes
+
+# Now one commmit ahead :
+publishing will require git push
